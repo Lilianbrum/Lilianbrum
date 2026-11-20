@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, sou Lilian Morais Brum 👋
 
-<!--
-**Lilianbrum/Lilianbrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pesquisadora e desenvolvedora interessada em criar ferramentas que aproximam tecnologia, gestão da informação e pesquisa.
 
-Here are some ideas to get you started:
+Atuo em projetos web com **Python, Django, React e TypeScript**, além de interfaces com HTML, CSS e JavaScript. Tenho especial interesse em automação e apoio à revisão sistemática da literatura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+
+- **[POC-IS](https://github.com/Lilianbrum/poc-is)** — prova de conceito para apoiar a identificação e priorização de estudos em revisões sistemáticas.
+- **[Gerenciador de Estoques](https://github.com/Lilianbrum/gerenciador-de-estoques)** — aplicação web em Django para controle de estoque.
+- **[Interface do Gerenciador de Estoques](https://github.com/Lilianbrum/gerenciador-de-estoquesDDI)** — protótipo de interface em React e TypeScript.
+- **[D.A. Estruturas Metálicas](https://github.com/Lilianbrum/TrabalhoFinal_Extens-oFrontEnd)** — site institucional desenvolvido como projeto final de front-end.
+- **[O Cânone Perene](https://github.com/Lilianbrum/TrabalhoFinal_Front-End_Gradua-o)** — projeto de curadoria literária em formato de site.
+- **[Manual de Processamento Técnico BPEL](https://github.com/Lilianbrum/Manual-Processamento-t-cnico-BPEL)** — documentação de uma proposta de pesquisa.
+
+## Tecnologias
+
+`Python` · `Django` · `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+Veja os repositórios fixados abaixo para conhecer alguns dos trabalhos.
