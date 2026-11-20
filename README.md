@@ -7,6 +7,7 @@ Atuo em projetos web com **Python, Django, React e TypeScript**, além de interf
 ## Projetos em destaque
 
 - **[POC-IS](https://github.com/Lilianbrum/poc-is)** — prova de conceito para apoiar a identificação e priorização de estudos em revisões sistemáticas.
+- **[Sistema da Biblioteca Comunitária FLUI](https://github.com/samuelhsv/sistema-biblioteca-django)** — projeto de equipe em Django para gestão de acervo, empréstimos e reservas. Contribuí com funcionalidades de reservas e fila, auditoria e cadastro de membros.
 - **[Gerenciador de Estoques](https://github.com/Lilianbrum/gerenciador-de-estoques)** — aplicação web em Django para controle de estoque.
 - **[Interface do Gerenciador de Estoques](https://github.com/Lilianbrum/gerenciador-de-estoquesDDI)** — protótipo de interface em React e TypeScript.
 - **[D.A. Estruturas Metálicas](https://github.com/Lilianbrum/TrabalhoFinal_Extens-oFrontEnd)** — site institucional desenvolvido como projeto final de front-end.
